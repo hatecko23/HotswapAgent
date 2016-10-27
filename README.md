@@ -1,4 +1,4 @@
-Hotswap Agent
+Hotswap Agent test
 =============
 Java unlimited runtime class and resource redefinition.
 
